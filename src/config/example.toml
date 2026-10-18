@@ -1,0 +1,23 @@
+[general]
+
+# 自设定布局
+[layouts.name]
+"name" = ""
+"type" = ""
+"..." = "..."
+
+# 渲染参数
+[render]
+
+# 输出规则
+[outputs]
+
+# 工作区规则
+[workspaces]
+
+# 窗口规则
+[rules]
+
+# 键位绑定
+# TODO 字符串/多层配置
+[bindings]
